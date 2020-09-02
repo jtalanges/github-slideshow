@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Honor is my only loyalty.
 Use the left arrow to go back!
